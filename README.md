@@ -8,6 +8,10 @@ An awesome list of useful libraries, utilities, APIs, tools, and packages for de
 
 ## Categories
 
+###
+
+- [Uizard](https://uizard.io/) - Visualize, communicate, and iterate on wireframes and prototypes in minutes.
+
 ### Converter
 - [Eversql - SQL to Prisma](https://www.eversql.com/sql-to-prisma) - Convert native SQL queries to Prisma code.
 
