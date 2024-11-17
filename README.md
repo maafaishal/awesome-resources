@@ -1,6 +1,6 @@
 # Awesome Dev Resources
 
-An awesome list of useful libraries, utilities, APIs, tools, and packages for developers.
+An awesome list of useful websites, libraries, utilities, APIs, tools, and packages for developers.
 
 ## Contents
 
@@ -8,7 +8,7 @@ An awesome list of useful libraries, utilities, APIs, tools, and packages for de
 
 ## Categories
 
-###
+### AI
 
 - [Uizard](https://uizard.io/) - Visualize, communicate, and iterate on wireframes and prototypes in minutes.
 
@@ -18,3 +18,7 @@ An awesome list of useful libraries, utilities, APIs, tools, and packages for de
 ### CLI (Command Line Interface)
 - [cleanup-local-branches](https://www.npmjs.com/package/cleanup-local-branches) - Clean up all local branches that do not have a corresponding remote branch.
 - [clearout-node-modules](https://www.npmjs.com/package/clearout-node-modules) - Find and delete node_modules folders (recursively) in your directory.
+
+### English
+
+- [Youglish](https://youglish.com/) - Provides real-world examples of words or phrases being spoken in context, using YouTube videos.
