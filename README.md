@@ -22,3 +22,7 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 ### English
 
 - [Youglish](https://youglish.com/) - Provides real-world examples of words or phrases being spoken in context, using YouTube videos.
+
+### NPM
+
+- [Moiva](https://moiva.io/) - Discover and Compare GitHub and NPM packages and find the similar packages
