@@ -10,6 +10,7 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 
 ### AI
 
+- [Bolt New](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web apps.
 - [Uizard](https://uizard.io/) - Visualize, communicate, and iterate on wireframes and prototypes in minutes.
 - [V0 Dev](https://v0.dev/) - A generative chat interface with in-depth knowledge on modern web technologies.
 
