@@ -26,6 +26,7 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 ### ORM
 
 - [Drizzle ORM](https://orm.drizzle.team/) - A headless TypeScript ORM with a head. 🐲
+- [Prisma ORM](https://www.prisma.io/orm) - Next-generation Node.js and TypeScript ORM
 
 ### NPM
 
