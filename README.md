@@ -26,3 +26,9 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 ### NPM
 
 - [Moiva](https://moiva.io/) - Discover and Compare GitHub and NPM packages and find the similar packages
+
+### Search Engine
+
+- [Grep App](https://grep.app/) - Effortlessly search for code, files, and paths across half a million GitHub repositories
+
+
