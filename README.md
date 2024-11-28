@@ -18,7 +18,8 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 
 - [Cloudflare Pages](https://pages.cloudflare.com/) - A JAMstack platform for frontend developers to collaborate and deploy websites.
 - [Heroku](https://www.heroku.com/) - A container-based cloud Platform as a Service (PaaS).
-- [Netlify](https://www.netlify.com/) - the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.
+- [Netlify](https://www.netlify.com/) - The essential platform for the delivery of exceptional and dynamic web experiences, without limitations.
+- [Render](https://render.com/) - Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth.
 - [Vercel](https://vercel.com/) - Vercel's Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized web.
 
 ### Converter
