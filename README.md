@@ -17,6 +17,7 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 ### Cloud Platforms
 
 - [Cloudflare Pages](https://pages.cloudflare.com/) - A JAMstack platform for frontend developers to collaborate and deploy websites.
+- [Vercel](https://vercel.com/) - Vercel's Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized web.
 
 ### Converter
 - [Eversql - SQL to Prisma](https://www.eversql.com/sql-to-prisma) - Convert native SQL queries to Prisma code.
