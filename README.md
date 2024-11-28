@@ -14,6 +14,10 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 - [Uizard](https://uizard.io/) - Visualize, communicate, and iterate on wireframes and prototypes in minutes.
 - [V0 Dev](https://v0.dev/) - A generative chat interface with in-depth knowledge on modern web technologies.
 
+### Cloud Platforms
+
+- [Cloudflare Pages](https://pages.cloudflare.com/) - A JAMstack platform for frontend developers to collaborate and deploy websites.
+
 ### Converter
 - [Eversql - SQL to Prisma](https://www.eversql.com/sql-to-prisma) - Convert native SQL queries to Prisma code.
 
