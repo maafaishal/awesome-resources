@@ -38,6 +38,12 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 
 - [Youglish](https://youglish.com/) - Provides real-world examples of words or phrases being spoken in context, using YouTube videos.
 
+https://download-directory.github.io/
+
+### GitHub
+
+- [Download GitHub Directory](https://download-directory.github.io/) - A tool to download files from a user-provided GitHub repository URL
+
 ### ORM
 
 - [Drizzle ORM](https://orm.drizzle.team/) - A headless TypeScript ORM with a head. 🐲
