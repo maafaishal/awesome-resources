@@ -34,21 +34,19 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 - [cleanup-local-branches](https://www.npmjs.com/package/cleanup-local-branches) - Clean up all local branches that do not have a corresponding remote branch.
 - [clearout-node-modules](https://www.npmjs.com/package/clearout-node-modules) - Find and delete node_modules folders (recursively) in your directory.
 
-### English
-
-- [Youglish](https://youglish.com/) - Provides real-world examples of words or phrases being spoken in context, using YouTube videos.
-
-https://download-directory.github.io/
-
-### GitHub
-
-- [Download GitHub Directory](https://download-directory.github.io/) - A tool to download files from a user-provided GitHub repository URL
-
 ### Database
 
 - [Drizzle](https://orm.drizzle.team/) - A headless TypeScript ORM with a head. 🐲
 - [Knex](https://knexjs.org/) - A SQL query builder for databases
 - [Prisma](https://www.prisma.io/orm) - Next-generation Node.js and TypeScript ORM
+
+### English
+
+- [Youglish](https://youglish.com/) - Provides real-world examples of words or phrases being spoken in context, using YouTube videos.
+
+### GitHub
+
+- [Download GitHub Directory](https://download-directory.github.io/) - A tool to download files from a user-provided GitHub repository URL
 
 ### NPM
 
