@@ -54,6 +54,15 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 
 - [Moiva](https://moiva.io/) - Discover and Compare GitHub and NPM packages and find the similar packages
 
+### NPM Packages
+
+- [dayjs](https://www.npmjs.com/package/dayjs) - Fast 2kB alternative to Moment.js with the same modern API
+- [picocolors](https://www.npmjs.com/package/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
+- [react-hook-form](https://www.npmjs.com/package/react-hook-form) - Performant, flexible and extensible forms library for React Hooks
+- [yup](https://www.npmjs.com/package/yup) - Dead simple Object schema validation
+- [zod](https://www.npmjs.com/package/zod) - TypeScript-first schema declaration and validation library with static type inference
+- [zustand](https://www.npmjs.com/package/zustand) - Bear necessities for state management in React
+
 ### Search Engine
 
 - [Grep App](https://grep.app/) - Effortlessly search for code, files, and paths across half a million GitHub repositories
