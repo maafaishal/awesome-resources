@@ -44,10 +44,11 @@ https://download-directory.github.io/
 
 - [Download GitHub Directory](https://download-directory.github.io/) - A tool to download files from a user-provided GitHub repository URL
 
-### ORM
+### Database
 
-- [Drizzle ORM](https://orm.drizzle.team/) - A headless TypeScript ORM with a head. 🐲
-- [Prisma ORM](https://www.prisma.io/orm) - Next-generation Node.js and TypeScript ORM
+- [Drizzle](https://orm.drizzle.team/) - A headless TypeScript ORM with a head. 🐲
+- [Knex](https://knexjs.org/) - A SQL query builder for databases
+- [Prisma](https://www.prisma.io/orm) - Next-generation Node.js and TypeScript ORM
 
 ### NPM
 
