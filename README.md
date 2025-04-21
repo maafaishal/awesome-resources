@@ -50,6 +50,10 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 
 - [Download GitHub Directory](https://download-directory.github.io/) - A tool to download files from a user-provided GitHub repository URL
 
+### Libraries
+
+- [TanStack Table](https://tanstack.com/table/latest) - Headless UI for building powerful tables & datagrids.
+
 ### NPM
 
 - [Moiva](https://moiva.io/) - Discover and Compare GitHub and NPM packages and find the similar packages
@@ -60,7 +64,6 @@ An awesome list of useful websites, libraries, utilities, APIs, tools, and packa
 - [picocolors](https://www.npmjs.com/package/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
 - [react-hook-form](https://www.npmjs.com/package/react-hook-form) - Performant, flexible and extensible forms library for React Hooks
 - [valibot](https://www.npmjs.com/package/valibot) - Featherweight validator
-- [zod](https://www.npmjs.com/package/zod) - TypeScript-first schema declaration and validation library with static type inference
 - [zod](https://www.npmjs.com/package/zod) - TypeScript-first schema declaration and validation library with static type inference
 - [zustand](https://www.npmjs.com/package/zustand) - Bear necessities for state management in React
 
